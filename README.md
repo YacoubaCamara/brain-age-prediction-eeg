@@ -21,6 +21,10 @@ Download the eval folder and place the CSV files in a `data/` directory.
 
 ## Results
 
+<img width="1200" height="600" alt="model_comparison" src="https://github.com/user-attachments/assets/c72f8454-1f5b-4b0f-af26-a299daf0b1a9" />
+<img width="1800" height="750" alt="brain_age_gap" src="https://github.com/user-attachments/assets/a887ea3f-b0a8-48e9-84b7-21aca73a9987" />
+<img width="1200" height="750" alt="feature_importance" src="https://github.com/user-attachments/assets/19b2faad-e588-4a75-ae38-433a409f5595" />
+
 Best model: **Random Forest** with MAE of 15.11 years.
 
 ## Setup
